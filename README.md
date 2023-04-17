@@ -6,14 +6,13 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexssandroSilvaGomes&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexssandroSilvaGomes&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexssandroSilvaGomes&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexssandroSilvaGomes&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/AlexssandroSilvaGomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexssandroSilvaGomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexssandroSilvaGomes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ##
